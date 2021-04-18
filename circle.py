@@ -3,7 +3,7 @@
 count = 100000
 steps = 5
 
-circle = [i for i in range(1, count + 1)]
+circle = [i for i in range(count)]
 
 i = 0
 
